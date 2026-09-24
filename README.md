@@ -36,3 +36,5 @@ The system can be extended using IoT technology for remote monitoring and contro
 ## 🔌 Circuit Diagram
 
 ![Automatic Street Light Circuit](Screenshot%20(6).png)
+## 🔗 Wokwi Simulation
+https://wokwi.com/projects/476025538184763393
