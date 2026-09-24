@@ -33,3 +33,6 @@ The project is programmed using Arduino C/C++.
 ## 🚀 Future Improvements
 
 The system can be extended using IoT technology for remote monitoring and control.
+## 🔌 Circuit Diagram
+
+![Automatic Street Light Circuit](Screenshot%20(6).png)
